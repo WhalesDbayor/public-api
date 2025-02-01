@@ -13,8 +13,8 @@ app.use(cors());
 app.get("/", (req, res) => {
   res.json({
     email: "wabalonline01@gmail.com",
-    current_date: new Date().toISOString(),
-    github_acct: "https://github.com/WhalesDbayor/public-api",
+    current_datetime: new Date().toISOString(),
+    github_url: "https://github.com/WhalesDbayor/public-api",
   });
 });
 
