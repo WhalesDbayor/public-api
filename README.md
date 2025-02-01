@@ -41,7 +41,7 @@ The server should now be running on **`http://localhost:3000`**
 ### **Endpoint URL**  
 **Base URL:**  
 ```
-GET https://your-deployed-api-url/
+GET https://public-api-hng12.vercel.app/
 ```
 
 ### **Response Format**  
@@ -66,7 +66,7 @@ Or visit the URL in your browser to see the JSON response.
 
 ## **Deployment**  
 This API is deployed and publicly accessible. You can access the live API at:  
-[**Your Deployed API URL**](https://your-deployed-api-url/)
+[**Your Deployed API URL**](https://public-api-hng12.vercel.app/)
 
 ---
 
