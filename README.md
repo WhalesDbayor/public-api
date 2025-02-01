@@ -19,7 +19,7 @@ Ensure you have the following installed on your system:
 
 ### **Clone this Repository**  
 ```sh
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/WhalesDbayor/public-api.git
 cd your-repo
 ```
 
@@ -45,7 +45,7 @@ GET https://public-api-hng12.vercel.app/
 ```
 
 ### **Response Format**  
-The API returns a JSON response with the following structure:  
+The API returns a JSON response with the following format:  
 
 ```json
 {
@@ -58,7 +58,7 @@ The API returns a JSON response with the following structure:
 ### **Example Usage**  
 You can test the API using **cURL**:  
 ```sh
-curl -X GET https://your-deployed-api-url/
+curl -X GET https://public-api-hng12.vercel.app/
 ```
 Or visit the URL in your browser to see the JSON response.
 
@@ -66,7 +66,7 @@ Or visit the URL in your browser to see the JSON response.
 
 ## **Deployment**  
 This API is deployed and publicly accessible. You can access the live API at:  
-[**Your Deployed API URL**](https://public-api-hng12.vercel.app/)
+[**My Deployed API URL**](https://public-api-hng12.vercel.app/)
 
 ---
 
